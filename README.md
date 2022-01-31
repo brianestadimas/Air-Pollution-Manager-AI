@@ -22,7 +22,7 @@ Possible implementation for Air Pollution Manager AI : <br/>
 - Educational and Research
 
 ## Data sources and AI methods
-
+### Data 
 
 
 
