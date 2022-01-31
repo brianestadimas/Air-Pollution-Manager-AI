@@ -22,10 +22,22 @@ Possible implementation for Air Pollution Manager AI : <br/>
 - Educational and Research
 
 ## Data sources and AI methods
-### Data 
+### Data Sources
+For early stage of training, datasets will be collected through : <br/>
+- Universal open dataset for regional air quality index.
+https://www.kaggle.com/open-aq/openaq
+https://www.kaggle.com/kerneler/starter-aqi-jakarta-hanoi-bangkok-86904a66-c/data
+- Goverment Dataset (climatology agency) in specific targeted area.
+- **Sample with minimum of 150 buildings** (100 households, 30 stores, and 20 factories) for every expanded region.
 
+Supporting data : <br/>
+- Weather data for past month along with AQI (include pH, temperature, winds)
+- Carbon footprint dataset
 
+### Input
+- 
 
+### Machine Learning Methods
 
 
 
