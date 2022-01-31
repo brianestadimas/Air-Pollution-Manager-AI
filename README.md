@@ -13,3 +13,24 @@ Air pollution has been a worldwide problem, which makes it important to know the
 Jakarta has above [160 AQI by 2022](https://www.iqair.com/indonesia/jakarta), which is three times higher than WHO recommendation. When observing the data collected in Jakarta over the last few years, it becomes apparent that the levels of air quality have actually gotten worse instead of better. <br/>
 
 Detective and preventive measures are required to prevent further impact and [loss](https://earth.stanford.edu/news/how-much-does-air-pollution-cost-us#gs.o5rkoq). **Technology in this field required as detective approach. With the help of Artificial Intelligence, it can increase efficiency, accuracy, and reduce operational cost.**
+
+## How is it used?
+Possible implementation for Air Pollution Manager AI : <br/>
+- Goverment, in order to detect improper companies in an area. This will help goverment for auditing and take action.
+- Smart City App, as personal usage (household) and community awareness.
+- Property (Estate), as helper to implement green area concept and increase air quality.
+- Educational and Research
+
+## Data sources and AI methods
+
+
+
+
+
+
+
+
+
+
+
+
