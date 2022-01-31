@@ -2,7 +2,7 @@
 Final project for the Building AI course
 
 # Summary
-In order to reduce Air Emissions and improve Air Quality in an area, Air Pollution Manager AI will take part as fault detectors on Buildings that are harmful to the Air Environment. <br/>
+In order to reduce Air Emissions and improve Air Quality in an area, Air Pollution Manager **AI will take part as fault detectors on Buildings that are harmful to the Air Environment.** <br/>
 This AI Program measures Air Pollution Rate and Air Quality Index (AQI) on buildings. Program will collect input from Carbon Footprint rate (CO, CO2, CFCs, etc), particulate matter (PM), weather, and any other pollutant data in a building. Compares to other buildings around in that area. Then decisively detects fault on them. <br/>
 
 # Background
@@ -12,4 +12,4 @@ Air pollution has been a worldwide problem, which makes it important to know the
 
 Jakarta has above [160 AQI by 2022](https://www.iqair.com/indonesia/jakarta), which is three times higher than WHO recommendation. When observing the data collected in Jakarta over the last few years, it becomes apparent that the levels of air quality have actually gotten worse instead of better. <br/>
 
-Detective and preventive measures are required to prevent further impact and [loss](https://earth.stanford.edu/news/how-much-does-air-pollution-cost-us#gs.o5rkoq). Technology in this field required as detective approach. With the help of Artificial Intelligence, it can increase efficiency, accuracy, and reduce operational cost
+Detective and preventive measures are required to prevent further impact and [loss](https://earth.stanford.edu/news/how-much-does-air-pollution-cost-us#gs.o5rkoq). **Technology in this field required as detective approach. With the help of Artificial Intelligence, it can increase efficiency, accuracy, and reduce operational cost.**
