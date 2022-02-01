@@ -64,13 +64,16 @@ This isn't hard to implement later on as [I have similar App here](https://githu
 **1. Data Collection and Authority**<br/>
 This is the biggest challenge for this AI Program as we will collect sample data directly from buildings (households and factories). It requires authority from goverment or collaboration with Smarty City App, without these I would say it is against ethics. Another way is to find voluntary or rewarding system.<br/>
 
-**2. Limitation of Resources (as well as Knowledge in this Field)**
+**2. Limitation of Resources (as well as Knowledge in this Field)** <br/>
 Currently I am the only developer for AI Pollution Manager AI. To determine weights and validity, person or institution within knowledge in this field is required to collaborate in this project. <br/>
 <br/>
 If you are from goverment, institutional, or related field and wish to collaborate, kindly [reach me out here](https://www.linkedin.com/in/brianestadimas/).
 
+## Acknowledgements
+[WHO site](https://www.who.int/) <br/>
+[Elements of AI, University of Helsinki](https://www.elementsofai.com/) <br/>
+[Sai Ajay, Mukhta article](https://towardsdatascience.com/building-an-ann-with-tensorflow-ec9652a7ddd4) <br/>
 
-
-
-
-
+## Author
+[Brian Estadimas A.](https://www.linkedin.com/in/brianestadimas/) <br/>
+Software Engineer and Alumni Computer Science University of Indonesia.
