@@ -37,8 +37,8 @@ Supporting data : <br/>
 
 
 ### Machine Learning Methods
-**Supervised learning** will be used with [Artificial Neural Network (ANN)](https://en.wikipedia.org/wiki/Artificial_neural_network) method. The implementation will be using **Tensorflow**, **Keras**, and data processing library such as Pandas and Numpy. 
-![image](https://user-images.githubusercontent.com/28497662/151931756-43f3c284-67f1-4224-9d2f-d5457263e949.png)
+**Supervised learning** will be used with [Artificial Neural Network (ANN)](https://en.wikipedia.org/wiki/Artificial_neural_network) method. The implementation will be using **Tensorflow**, **Keras**, and data processing library such as Pandas and Numpy. <br/>
+![image](https://user-images.githubusercontent.com/28497662/151931756-43f3c284-67f1-4224-9d2f-d5457263e949.png) <br/>
 Early iteration stage : <br/>
 1.  Collect primary and supporting dataset
 2.  Data preprocessing, includes data cleaning, normalization, and reshaping.
