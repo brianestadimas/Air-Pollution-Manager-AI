@@ -57,8 +57,8 @@ Continous stage : <br/>
 
 ## What next?
 **Detect Air Pollution Rate base on spectrum color of sky using mobile phone camera.** <br/>
-![image](https://user-images.githubusercontent.com/28497662/151937654-2dee3588-4f56-4e58-bfcd-254c41d1cea3.png) <br/>
-This isn't hard to implement later on, however I will be focusing on MVP of current product first. The concept is using Convolutional Neural Network (CNN) with [Tensorflow 2 Object Detection API Framework](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/).
+![image](https://user-images.githubusercontent.com/28497662/151937793-ff73ade8-619a-4a15-bada-a8788f6717a7.png) <br/>
+This isn't hard to implement later on as [I have similar App here](https://github.com/brianestadimas/safemask-ai). However I will be focusing on MVP of current product first. The concept is using Convolutional Neural Network (CNN) with [Tensorflow 2 Object Detection API Framework](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/).
 
 
 
