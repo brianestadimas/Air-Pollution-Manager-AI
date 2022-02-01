@@ -33,12 +33,31 @@ https://www.kaggle.com/kerneler/starter-aqi-jakarta-hanoi-bangkok-86904a66-c/dat
 Supporting data : <br/>
 - Weather data for past month along with AQI (include pH, temperature, winds)
 - Carbon footprint dataset
+- Pollutant sources dataset
 
-### Input
-- 
 
 ### Machine Learning Methods
+**Supervised learning** will be used with [Artificial Neural Network (ANN)](https://en.wikipedia.org/wiki/Artificial_neural_network) method. The implementation will be using **Tensorflow**, **Keras**, and data processing library such as Pandas and Numpy. 
+![image](https://user-images.githubusercontent.com/28497662/151931756-43f3c284-67f1-4224-9d2f-d5457263e949.png)
+Early iteration stage : <br/>
+1.  Collect primary and supporting dataset
+2.  Data preprocessing, includes data cleaning, normalization, and reshaping.
+3.  Split Train and Test data using 10-fold cross validation, therefore we will have 70% training dataset, 20% test dataset, and 10% cross validation.
+4.  Build [logistic regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) function
+5.  Build activation function (hidden layer), dropout layer, and output layer.
+6.  Compile and fit the model.
+7.  Train the model until desired epoch.
+8.  At this stage, we will have finished model in form of Keras Model (.h5)
+9.  Evaluate the model and repeat steps to receive desired accuracy.
+10.  Testing
 
+Continous stage : <br/>
+- Sample dataset that have been collected will be added to Input dataset and going through the process of Training. Therefore every expanded region, the dataset will increase and transferred into Training process. This implies on every buildings that have been predicted, the AI will collect the input data to dataset.
+- Input variables can also increase. Example currently we have PM25, O2, O3, Carbons, weather, etc. as input, then in the future, we can detect Air Pollution  Rate based on spectrum color of skies (with enough dataset). Indeed, it will be included into dataset.
+
+## What next?
+**Detect Air Pollution Rate base on spectrum color of sky using mobile phone camera.** <br/>
+This isn't hard to implement later on, however I will be focusing on MVP of current product first. The concept is using Convolutional Neural Network (CNN) with [Tensorflow 2 Object Detection API Framework](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/).
 
 
 
