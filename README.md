@@ -26,7 +26,8 @@ Possible implementation for Air Pollution Manager AI : <br/>
 For early stage of training, datasets will be collected through : <br/>
 - Universal open dataset for regional air quality index.<br/>
 https://www.kaggle.com/open-aq/openaq <br/>
-https://www.kaggle.com/kerneler/starter-aqi-jakarta-hanoi-bangkok-86904a66-c/data
+https://www.kaggle.com/kerneler/starter-aqi-jakarta-hanoi-bangkok-86904a66-c/data <br/>
+https://data.world/datasets/air-quality
 - Goverment Dataset (climatology agency) in specific targeted area.
 - **Sample with minimum of 150 buildings** (100 households, 30 stores, and 20 factories) for every expanded region.
 
@@ -38,7 +39,9 @@ Supporting data : <br/>
 
 ### Machine Learning Methods
 **Supervised learning** will be used with [Artificial Neural Network (ANN)](https://en.wikipedia.org/wiki/Artificial_neural_network) method. The implementation will be using **Tensorflow**, **Keras**, and data processing library such as Pandas and Numpy. <br/>
+#############################################################
 ![image](https://user-images.githubusercontent.com/28497662/151931756-43f3c284-67f1-4224-9d2f-d5457263e949.png) <br/>
+#############################################################
 Early iteration stage : <br/>
 1.  Collect primary and supporting dataset
 2.  Data preprocessing, includes data cleaning, normalization, and reshaping.
