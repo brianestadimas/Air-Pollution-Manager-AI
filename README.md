@@ -36,6 +36,8 @@ Supporting data : <br/>
 - Carbon footprint dataset
 - Pollutant sources dataset
 
+Example subset data : <br/>
+![image](https://user-images.githubusercontent.com/28497662/151943181-e3cc33e0-407f-4e76-a881-3cd6bab84508.png)
 
 ### Machine Learning Methods
 **Supervised learning** will be used with [Artificial Neural Network (ANN)](https://en.wikipedia.org/wiki/Artificial_neural_network) method. The implementation will be using **Tensorflow**, **Keras**, and data processing library such as Pandas and Numpy. <br/>
